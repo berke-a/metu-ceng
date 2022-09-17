@@ -1,0 +1,6 @@
+
+--------------------------------------------------------------
+*** Update his/her status to “eligible” after 120 days have passed since the user was vaccinated last time ***
+3 rows are changed.
+
+--------------------------------------------------------------

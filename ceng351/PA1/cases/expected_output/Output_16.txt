@@ -1,0 +1,7 @@
+
+--------------------------------------------------------------
+*** Given vaccine name, delete the vaccine(s) from the database ***
+Code	Vaccinename	Type
+81	Convidecia	Adenovirus_vector_vaccines
+
+--------------------------------------------------------------

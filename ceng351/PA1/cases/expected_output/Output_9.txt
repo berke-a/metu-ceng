@@ -1,0 +1,8 @@
+
+--------------------------------------------------------------
+*** List of the two recent vaccines applied to any user that do not contain ‘vac’ in their name ***
+Code	Vaccinename	Type
+11	Pfizer-BioNTech	RNA_vaccines_and_DNA_vaccines
+191	BioNTech_Updated	Unknown_type
+
+--------------------------------------------------------------

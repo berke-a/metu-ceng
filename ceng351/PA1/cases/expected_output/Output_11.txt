@@ -1,0 +1,7 @@
+
+--------------------------------------------------------------
+*** List users who have been vaccinated with all vaccines that can cause the given side effect ***
+UserID	UserName	Address
+22	Can Unal	Cankaya/Ankara
+
+--------------------------------------------------------------

@@ -1,0 +1,15 @@
+
+--------------------------------------------------------------
+*** List users who have had at least two doses of vaccine and have experienced at most one side effect ***
+UserID	UserName	Address
+1	Haldun Dincturk	Ayazaga/Istanbul
+2	Tugce Dundar	Kadıkoy/Istanbul
+3	Lale Ege	Merkez/Edirne
+5	Deniz Gonul	Cankaya/Ankara
+7	Tarik Guven	Tepebasi/Eskisehir
+10	Umit Kayali	Cerkezkoy/Tekirday
+20	Yasemin Surmeli	Surmene/Trabzon
+21	Alper Kara	Cankaya/Ankara
+22	Can Unal	Cankaya/Ankara
+
+--------------------------------------------------------------

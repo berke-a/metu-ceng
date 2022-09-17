@@ -1,0 +1,9 @@
+
+--------------------------------------------------------------
+*** List users who have been vaccinated for two doses since the given date ***
+UserID	UserName	Address
+7	Tarik Guven	Tepebasi/Eskisehir
+20	Yasemin Surmeli	Surmene/Trabzon
+21	Alper Kara	Cankaya/Ankara
+
+--------------------------------------------------------------

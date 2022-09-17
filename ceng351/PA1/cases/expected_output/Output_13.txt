@@ -1,0 +1,9 @@
+
+--------------------------------------------------------------
+*** List side effects experienced by users who have two doses of vaccine with less than 20 days between doses ***
+EffectCode	EffectName
+1672	loss_of_smell
+1888	a_rash_onskin
+4001	liver_disease
+
+--------------------------------------------------------------

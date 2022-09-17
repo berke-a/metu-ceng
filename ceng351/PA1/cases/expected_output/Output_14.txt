@@ -1,0 +1,7 @@
+
+--------------------------------------------------------------
+*** Calculate the average number of doses of vaccinated users over the age of 65 ***
+Average
+1.83
+
+--------------------------------------------------------------

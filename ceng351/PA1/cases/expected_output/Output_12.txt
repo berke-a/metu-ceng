@@ -1,0 +1,8 @@
+
+--------------------------------------------------------------
+*** List users who have been vaccinated with at least two different types of vaccines within the given time interval ***
+UserID	UserName	Address
+3	Lale Ege	Merkez/Edirne
+22	Can Unal	Cankaya/Ankara
+
+--------------------------------------------------------------
