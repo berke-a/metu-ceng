@@ -6,7 +6,7 @@ Some of the homework I've done while studying at METU Ceng.
 In this course we've learned about processes (fork, pipe..), threads & synchronization, scheduling and memory.  
 <br/>
 
-## CENG336 - Intro.To Embedded Systems Development
+## CENG336 - Intro. To Embedded Systems Development
 CENG 336 is an intermediate course in the design and implementation of software for embedded systems, starting with assembly language and concluding with C.  
 <br/>
 
