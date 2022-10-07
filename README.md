@@ -1,4 +1,5 @@
 # metu-ceng
+Some of the homework I've done while studying at METU Ceng
 
 ## CENG334 - Operating Systems
 In this course we've learned about processes (fork, pipe..), threads & synchronization, scheduling and memory.
