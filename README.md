@@ -12,6 +12,7 @@ CENG 336 is an intermediate course in the design and implementation of software 
 
 ### CENG351 - Data Management And File Structures
 Course Content : Introduction to DBMSs. Relational databases. Entity-Relationship data model. Relational algebra. Relational calculus. SQL. Sequential files. Unordered sequential files. Ordered sequential files. External sorting. B+tree index. Hashing. Dynamic hashing. Basics of query evaluation.  
+<br/>
 
 ### CENG499 - Introduction to Machine Learning
 Machine Learning course given by Assoc. Prof. Dr. Şeyda Ertekin. I've utilized following methods ; SVMs, HAC, RF, HAC. Additionally, I've implemented the following methods with library constraints :
