@@ -15,7 +15,7 @@ Course Content: Introduction to DBMSs. Relational databases. Entity-Relationship
 <br/>
 
 ### CENG499 - Introduction to Machine Learning
-Taken from Assoc. Prof. Dr. Şeyda Ertekin. I've utilized the following methods; SVMs, HAC, RF, and HAC. Additionally, I've implemented the following methods with library constraints :
+During the duration of the course, I've utilized following methods; SVMs, HAC, RF, and HAC. Additionally, I've implemented the following methods with library constraints (i.e. only using NumPy etc.) :
 <ul>
   <li>Multilayer-Perceptrons (MLP)(feed-forward neural networks)
   <li>KNN
