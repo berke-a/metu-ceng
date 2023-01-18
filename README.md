@@ -3,7 +3,7 @@ Homework and studies I've done at METU Computer Engineering
 <br/>
 
 ## CENG334 - Operating Systems
-CENG334 is a 3rd year course about processes (fork, pipe..), threads & synchronization, scheduling, and memory.  
+CENG 334 is a 3rd year course about processes (fork, pipe..), threads & synchronization, scheduling, and memory.  
 <br/>
 
 ## CENG336 - Intro. To Embedded Systems Development
