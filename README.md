@@ -14,6 +14,9 @@ CENG336 is an intermediate course in the design and implementation of software f
 Course Content: Introduction to DBMSs. Relational databases. Entity-Relationship data model. Relational algebra. Relational calculus. SQL. Sequential files. Unordered sequential files. Ordered sequential files. External sorting. B+tree index. Hashing. Dynamic hashing. Basics of query evaluation.  
 <br/>
 
+## CENG495 - Cloud Computing
+Developed a full-stack e-commerce site & deployed an application using Minikube and Skaffold with Kubernetes. The E-commerce website is an individual repo, you can find it [here](https://github.com/berke-a/ecommerce-website)
+
 ## CENG499 - Introduction to Machine Learning
 During the duration of the course, I've utilized following methods; SVMs, HAC, RF, and HAC. Additionally, I've implemented the following methods from scratch with library constraints (i.e. only using NumPy etc.) :
 <ul>
