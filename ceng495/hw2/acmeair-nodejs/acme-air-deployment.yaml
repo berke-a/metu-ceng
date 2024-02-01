@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: acme-air-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: acme-air
+  template:
+    metadata:
+      labels:
+        app: acme-air
+    spec:
+      containers:
+      - name: acme-air-container
+        image: acme-air-image
+        ports:
+        - containerPort: 9080

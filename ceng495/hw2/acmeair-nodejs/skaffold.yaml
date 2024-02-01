@@ -1,0 +1,11 @@
+apiVersion: skaffold/v2beta21
+kind: Config
+metadata:
+  name: acme-air
+build:
+  artifacts:
+  - image: acme-air-image
+deploy:
+  kubectl:
+    manifests:
+    - acme-air-deployment.yaml
